@@ -1,6 +1,5 @@
 
 # <p align="center">⚡ 𝓑𝓾̀𝓲 𝓠𝓾𝓪𝓷𝓰 𝓣𝓱𝓲𝓮̣̂𝓷 ⚡</p>
-# <p align="center">😄 𝖇𝖖𝖙𝖍𝖎𝖊𝖓599@𝖌𝖒𝖆𝖎𝖑.𝖈𝖔𝖒 😄</p>
 
 <p align="center">
 	<a href="https://github.com/bqthien599/">
